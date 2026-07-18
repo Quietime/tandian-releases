@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.1",
-  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.1.1/manmantan-INSTALL.apk",
-  "changelog": "修复检查更新的响应解析；恢复 Supabase、Google 登录与云同步配置；评分和推荐范围滑条按 0.1 步进提供细腻触觉反馈，并在松手后保存。"
+  "versionCode": 5,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.2.0/manmantan-INSTALL.apk",
+  "changelog": "地图新增当前位置按钮和持续显示店名的分类标记；搜索结果扩大至约六成屏幕；自动匹配分类、营业信息和 Google 地点照片；距离排序直接显示到店距离；高分地图覆盖咖啡、酒吧与美食。"
 }
