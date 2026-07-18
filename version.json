@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.1.0/manmantan-INSTALL.apk",
-  "changelog": "重组设置为分类与二级菜单；添加页改为固定整屏并支持防抖搜索；接入真实 Google Maps、Places、Google 登录、Supabase 同步和 Gemini 推荐；新增可靠来源的自动优惠；安装新版后自动清理下载的 APK。"
+  "versionCode": 4,
+  "versionName": "1.1.1",
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.1.1/manmantan-INSTALL.apk",
+  "changelog": "修复检查更新的响应解析；恢复 Supabase、Google 登录与云同步配置；评分和推荐范围滑条按 0.1 步进提供细腻触觉反馈，并在松手后保存。"
 }
