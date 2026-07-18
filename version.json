@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.2.0/manmantan-INSTALL.apk",
-  "changelog": "地图新增当前位置按钮和持续显示店名的分类标记；搜索结果扩大至约六成屏幕；自动匹配分类、营业信息和 Google 地点照片；距离排序直接显示到店距离；高分地图覆盖咖啡、酒吧与美食。"
+  "versionCode": 6,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.3.0/manmantan-INSTALL.apk",
+  "changelog": "新增每日更新并本地保存的全岛 OpenStreetMap 咖啡、酒吧与美食目录；Google 4.6+ 改为当前视野单区域高亮，并与每日发现共用滚动 24 小时 12 次额度；新增地图聚合、OSM 详情与收藏；修复英文配额错误、限时倒计时重叠和搜索结果裁切。"
 }
