@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.4.0/manmantan-INSTALL.apk",
-  "changelog": "地图高分模式改用 Google Places Aggregate 分区检索，不再依赖每日 12 次 Nearby；OSM 全岛目录持续可用；导入 16 家已核实的 4.5+ 店铺并排除 17 家低分店；Google 详情增加 30 天短期缓存。"
+  "versionCode": 8,
+  "versionName": "1.4.1",
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.4.1/manmantan-INSTALL.apk",
+  "changelog": "新增 48 家已核实评分不低于 4.5 的店铺，升级后自动加入清单；高分地图继续使用 OSM 全岛目录与 Google Places Aggregate 当前视野叠加；修正重复、错误同名和低评分门店匹配。"
 }
