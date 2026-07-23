@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.4.3",
-  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.4.3/manmantan-INSTALL.apk",
-  "changelog": "修复添加页店名搜索，新增当前位置偏置与文本搜索回退；Google 高分地图新增主食、咖啡、酒吧多选筛选并改用紧凑分类图钉；每日发现按新加坡日期轮换，候选池耗尽前不重复，Google 不足时由 OSM 补足；内置 67 家改为事务式对账并自动补齐缺失数据。"
+  "versionCode": 11,
+  "versionName": "1.4.4",
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.4.4/manmantan-INSTALL.apk",
+  "changelog": "修复添加页输入店名后搜索状态和结果浮层不显示的问题；搜索防抖改由 ViewModel 持有，输入第二个字符时立即显示加载或错误反馈；搜索结果固定锚定在输入框下方；输入框由 58dp 加高至 68dp，并增大文字与搜索图标，避免输入内容被遮挡。"
 }
