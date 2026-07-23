@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.4.4",
-  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.4.4/manmantan-INSTALL.apk",
-  "changelog": "修复添加页输入店名后搜索状态和结果浮层不显示的问题；搜索防抖改由 ViewModel 持有，输入第二个字符时立即显示加载或错误反馈；搜索结果固定锚定在输入框下方；输入框由 58dp 加高至 68dp，并增大文字与搜索图标，避免输入内容被遮挡。"
+  "versionCode": 12,
+  "versionName": "1.4.5",
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.4.5/manmantan-INSTALL.apk",
+  "changelog": "搜索结果改为独立窗口级浮层，稳定占约页面三分之一（240–360dp），可滚动查看更多长店名与地址；修复结果被搜索框高度裁剪的问题。应用更新完成后通过系统包替换广播立即删除已下载 APK 及下载记录，启动新版时仍保留兜底清理。"
 }
