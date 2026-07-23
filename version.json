@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.4.2",
-  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.4.2/manmantan-INSTALL.apk",
-  "changelog": "完成店名清单复核，共导入 67 家评分不低于 4.5 且仍可用的店铺；补充 Ember、忘不了传统大虾面和 Lo Hey HK Seafood；排除低评分、停业、重复与非店铺记录；修正正式安装包的 Google Maps API 配置。"
+  "versionCode": 10,
+  "versionName": "1.4.3",
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.4.3/manmantan-INSTALL.apk",
+  "changelog": "修复添加页店名搜索，新增当前位置偏置与文本搜索回退；Google 高分地图新增主食、咖啡、酒吧多选筛选并改用紧凑分类图钉；每日发现按新加坡日期轮换，候选池耗尽前不重复，Google 不足时由 OSM 补足；内置 67 家改为事务式对账并自动补齐缺失数据。"
 }
