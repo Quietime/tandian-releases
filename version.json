@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.4.6",
-  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.4.6/manmantan-INSTALL.apk",
-  "changelog": "清单页在“距离优先”左侧新增本地搜索框，可按当前待探清单的店名或地址即时筛选；搜索不消耗 Google 配额，也不修改店铺数据。移除清单卡片左侧方形分类图案，保留咖啡、酒吧、美食标签，让店名与地址获得更大展示空间。"
+  "versionCode": 14,
+  "versionName": "1.4.7",
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.4.7/manmantan-INSTALL.apk",
+  "changelog": "清单搜索框改为更紧凑、不会遮挡提示词的“搜索清单”，保留完整输入空间。筛选按钮加入即时按压与轻触觉反馈；筛选、搜索和排序后的卡片以更平滑、可中断的淡化与位置过渡重排。底栏切换节奏同步优化，并继续支持减少动态效果。"
 }
