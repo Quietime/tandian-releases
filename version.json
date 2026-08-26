@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.4.7",
-  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.4.7/manmantan-INSTALL.apk",
-  "changelog": "清单搜索框改为更紧凑、不会遮挡提示词的“搜索清单”，保留完整输入空间。筛选按钮加入即时按压与轻触觉反馈；筛选、搜索和排序后的卡片以更平滑、可中断的淡化与位置过渡重排。底栏切换节奏同步优化，并继续支持减少动态效果。"
+  "versionCode": 15,
+  "versionName": "1.4.8",
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.4.8/manmantan-INSTALL.apk",
+  "changelog": "新增小红书「新加坡美食」收藏：仅导入 Google Maps 评分 4.5 以上且店名匹配明确的 46 家店；为新增及原有店铺补充 Google 评分、评价数、地址和可获得的人均区间；明确人均超过 S$200 的条目会排除；保留现有足迹、状态与备注，并完成数据库无损升级。"
 }
