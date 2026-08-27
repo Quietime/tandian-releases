@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.4.8",
-  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.4.8/manmantan-INSTALL.apk",
-  "changelog": "新增小红书「新加坡美食」收藏：仅导入 Google Maps 评分 4.5 以上且店名匹配明确的 46 家店；为新增及原有店铺补充 Google 评分、评价数、地址和可获得的人均区间；明确人均超过 S$200 的条目会排除；保留现有足迹、状态与备注，并完成数据库无损升级。"
+  "versionCode": 16,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.5.0/manmantan-INSTALL.apk",
+  "changelog": "新增底部「玩乐」页面，接入新加坡及新山、巴淡岛、民丹岛等周边收藏；限时活动按新加坡时间排序，14 天内醒目置顶；支持区域与分类筛选、路线站点、小红书来源、想去/去过足迹及完整增删改；新增 Room v9 无损升级与包含玩乐数据的 v2 JSON 备份。"
 }
