@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.5.0/manmantan-INSTALL.apk",
-  "changelog": "新增底部「玩乐」页面，接入新加坡及新山、巴淡岛、民丹岛等周边收藏；限时活动按新加坡时间排序，14 天内醒目置顶；支持区域与分类筛选、路线站点、小红书来源、想去/去过足迹及完整增删改；新增 Room v9 无损升级与包含玩乐数据的 v2 JSON 备份。"
+  "versionCode": 17,
+  "versionName": "1.5.1",
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.5.1/manmantan-INSTALL.apk",
+  "changelog": "完成「新加坡玩乐」收藏的二次复查：逐条查看正文、评论和全部图片，将 51 条待复查清零；玩乐卡片由 34 张扩充至 61 张，并明确标记已过期、已撤除、求助帖、纯记录及超范围路线；活动目录升级到 v2，更新后自动补充新项目并保留用户编辑。"
 }
