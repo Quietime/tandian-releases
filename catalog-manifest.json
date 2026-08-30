@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 1,
-  "generatedAt": "2026-08-28T08:01:03.915Z",
+  "catalogVersion": 4,
+  "generatedAt": "2026-08-30T15:14:40.531Z",
   "minAppVersionCode": 18,
   "food": {
     "url": "https://raw.githubusercontent.com/quietime/tandian-releases/main/food-catalog.json",
-    "sha256": "d0ad67c3ba1a33ad3e49af2ed4362583ac8a40eace85fc7bb7a6af9c30181147",
-    "count": 111
+    "sha256": "f85f705a9dc253c38a21a8e3141601d0ff5e3aef962bcbcefe1972e426c2ea46",
+    "count": 116
   },
   "activities": {
     "url": "https://raw.githubusercontent.com/quietime/tandian-releases/main/activity-catalog.json",
-    "sha256": "ed8c950439e7fb8ed54aac7161c68489c7912cddb72cd9ae312221148f906fe8",
-    "count": 147
+    "sha256": "9c098a63f91298160181a7a758411b44ac0cc97628d23c2d77edbf6ede0bd862",
+    "count": 132
   }
 }

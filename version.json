@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.5.1",
-  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.5.1/manmantan-INSTALL.apk",
-  "changelog": "完成「新加坡玩乐」收藏的二次复查：逐条查看正文、评论和全部图片，将 51 条待复查清零；玩乐卡片由 34 张扩充至 61 张，并明确标记已过期、已撤除、求助帖、纯记录及超范围路线；活动目录升级到 v2，更新后自动补充新项目并保留用户编辑。"
+  "versionCode": 19,
+  "versionName": "1.5.3",
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.5.3/manmantan-INSTALL.apk",
+  "changelog": "修复距离优先排序：使用真实当前位置，移除限时项目对其他排序的干扰，并为全部餐饮地点补齐坐标。清单卡片新增距离与定位状态；路线服务可用时显示步行距离和时间，不可用时明确显示直线估算。同步带入此前尚未公开发布的玩乐地点拆分、来源闪退修复、去过自动收起、下拉筛选及远程目录更新。"
 }

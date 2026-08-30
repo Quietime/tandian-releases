@@ -10,7 +10,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 3325,
     "googleAddress": "346 Joo Chiat Rd, Singapore 427596",
-    "googleMapsUrl": "https://www.google.com/maps/search/La%20Bottega%20Enoteca%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/La%20Bottega%20Enoteca%20Singapore",
+    "latitude": 1.308737623090726,
+    "longitude": 103.9026857381904
   },
   {
     "placeId": "ChIJ-8kgGRsZ2jERyByItHD-jkk",
@@ -23,7 +25,9 @@
     "googleRating": 4.8,
     "googleRatingCount": 39,
     "googleAddress": "5 Everton Prk, #01-22A, Singapore 080005",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=at%20sucr%C3%A9&query_place_id=ChIJ-8kgGRsZ2jERyByItHD-jkk"
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=at%20sucr%C3%A9&query_place_id=ChIJ-8kgGRsZ2jERyByItHD-jkk",
+    "latitude": 1.27668433818668,
+    "longitude": 103.8394591087532
   },
   {
     "placeId": "ChIJ-Uph06UZ2jERjKQsyQgfltg",
@@ -36,7 +40,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 6335,
     "googleAddress": "80 Bras Basah Rd, Singapore 189560",
-    "googleMapsUrl": "https://www.google.com/maps/search/Fairmont%20Singapore%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Fairmont%20Singapore%20Singapore",
+    "latitude": 1.294076444830724,
+    "longitude": 103.8533318270875
   },
   {
     "placeId": "ChIJ1fOtC54Z2jER-rKgFarVuYw",
@@ -49,7 +55,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 835,
     "googleAddress": "47,48,49, Pekin St, #01-01, 048779",
-    "googleMapsUrl": "https://www.google.com/maps/search/Gwanghwamun%20Mijin%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Gwanghwamun%20Mijin%20Singapore",
+    "latitude": 1.283170114500926,
+    "longitude": 103.8487535571413
   },
   {
     "placeId": "ChIJ1WlZGHwZ2jERfe0_ZCZKyEA",
@@ -62,7 +70,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 1034,
     "googleAddress": "406 Joo Chiat Pl, #01-24 The Yards, Singapore 428084",
-    "googleMapsUrl": "https://www.google.com/maps/search/The%20Brewing%20Ground%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/The%20Brewing%20Ground%20Singapore",
+    "latitude": 1.314923443365963,
+    "longitude": 103.9111255158827
   },
   {
     "placeId": "ChIJ36AdBg0Z2jERvFl0QFoqZ0E",
@@ -75,7 +85,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 1820,
     "googleAddress": "165 Tg Pagar Rd, Amara Hotel, Singapore 088539",
-    "googleMapsUrl": "https://www.google.com/maps/search/Jigger%20%26%20Pony%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Jigger%20%26%20Pony%20Singapore",
+    "latitude": 1.274927658382625,
+    "longitude": 103.8435495305616
   },
   {
     "placeId": "ChIJ43oEGRwZ2jERPNdexSLp2Io",
@@ -88,7 +100,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 145,
     "googleAddress": "3 Neil Rd, #01-01, Singapore 088805",
-    "googleMapsUrl": "https://www.google.com/maps/search/Side%20Door%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Side%20Door%20Singapore",
+    "latitude": 1.280153929392607,
+    "longitude": 103.8437426853405
   },
   {
     "placeId": "ChIJ4wutVe4Z2jERDUp3XtrAkeE",
@@ -101,7 +115,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 892,
     "googleAddress": "41 Neil Rd, Singapore 088824",
-    "googleMapsUrl": "https://www.google.com/maps/search/Fieldnotes%2C%20Neil%20Road%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Fieldnotes%2C%20Neil%20Road%20Singapore",
+    "latitude": 1.279665392342019,
+    "longitude": 103.8428948098451
   },
   {
     "placeId": "ChIJ4Y58MgAZ2jERgdiHwpfaNnA",
@@ -114,7 +130,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 431,
     "googleAddress": "350 Orchard Rd, Singapore 238869",
-    "googleMapsUrl": "https://www.google.com/maps/search/Umacha%20X%20Crepe%20Endo%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Umacha%20X%20Crepe%20Endo%20Singapore",
+    "latitude": 1.306075159543551,
+    "longitude": 103.8310033214548
   },
   {
     "placeId": "ChIJ4yEk-_892jERFOSKuMKaNdg",
@@ -127,7 +145,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 964,
     "googleAddress": "2 Netheravon Rd, Block B Civil Service Club @ Changi, Singapore 508503",
-    "googleMapsUrl": "https://www.google.com/maps/search/Canopy%20Changi%20Village%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Canopy%20Changi%20Village%20Singapore",
+    "latitude": 1.390950820081037,
+    "longitude": 103.9868909701544
   },
   {
     "placeId": "ChIJ5ShK4pgZ2jERK2Q7xZ_iHkQ",
@@ -140,7 +160,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 1048,
     "googleAddress": "12 Kallang Avenue, #02-10, Aperia Mall, Singapore 339511",
-    "googleMapsUrl": "https://www.google.com/maps/search/Pohang%20Seafood%20%26%20Butchery%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Pohang%20Seafood%20%26%20Butchery%20Singapore",
+    "latitude": 1.309711206507712,
+    "longitude": 103.864326436447
   },
   {
     "placeId": "ChIJ6aFnM2cR2jER4z2supmO204",
@@ -153,7 +175,9 @@
     "googleRating": 4.9,
     "googleRatingCount": 1175,
     "googleAddress": "6001 Beach Rd, #01-27, Singapore 199589",
-    "googleMapsUrl": "https://www.google.com/maps/search/Wang%20Bu%20Liao%20Traditional%20Prawn%20Noodles%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Wang%20Bu%20Liao%20Traditional%20Prawn%20Noodles%20Singapore",
+    "latitude": 1.301891746839341,
+    "longitude": 103.8641406792491
   },
   {
     "placeId": "ChIJ6fBlRHsZ2jERuDtMge1ovMQ",
@@ -166,7 +190,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 1331,
     "googleAddress": "12 Gopeng St, #01-05/11 Icon Village, Singapore 078877",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alice%20Boulangerie%20%26%20Restaurant&query_place_id=ChIJ6fBlRHsZ2jERuDtMge1ovMQ"
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alice%20Boulangerie%20%26%20Restaurant&query_place_id=ChIJ6fBlRHsZ2jERuDtMge1ovMQ",
+    "latitude": 1.275169975231742,
+    "longitude": 103.8444963126445
   },
   {
     "placeId": "ChIJ8SAJCL4b2jERv6ja7o_sUAE",
@@ -179,7 +205,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 1980,
     "googleAddress": "7 Holland Vlg Wy, #03-22/23/24, Singapore 275748",
-    "googleMapsUrl": "https://www.google.com/maps/search/Lo%20Hey%20HK%20Seafood%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Lo%20Hey%20HK%20Seafood%20Singapore",
+    "latitude": 1.311049168110653,
+    "longitude": 103.7941455464709
   },
   {
     "placeId": "ChIJ9-R7d80Z2jERA2PywKkfb5A",
@@ -192,7 +220,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 276,
     "googleAddress": "11 Prinsep Link, The Foundry, Singapore 187949",
-    "googleMapsUrl": "https://www.google.com/maps/search/Bettr%20Coffee%20%40%20Foundry%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Bettr%20Coffee%20%40%20Foundry%20Singapore",
+    "latitude": 1.300100428151307,
+    "longitude": 103.8502956731733
   },
   {
     "placeId": "ChIJ932MOA0Z2jERl0YHLKdA6VY",
@@ -205,7 +235,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 635,
     "googleAddress": "8 Purvis St, Singapore 188587",
-    "googleMapsUrl": "https://www.google.com/maps/search/Nutmeg%20%26%20Clove%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Nutmeg%20%26%20Clove%20Singapore",
+    "latitude": 1.296743982150292,
+    "longitude": 103.8551974334359
   },
   {
     "placeId": "ChIJ93lInX8Z2jER-EIyCRxbK90",
@@ -218,7 +250,9 @@
     "googleRating": 4.9,
     "googleRatingCount": 14714,
     "googleAddress": "333A Orchard Rd, #02-14 Mandarin Gallery, Singapore 238897",
-    "googleMapsUrl": "https://www.google.com/maps/search/DRIM%20Korean%20Steak%20House%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/DRIM%20Korean%20Steak%20House%20Singapore",
+    "latitude": 1.302064505560854,
+    "longitude": 103.8363409537472
   },
   {
     "placeId": "ChIJ983ePJYZ2jER37eSak28AR8",
@@ -231,7 +265,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 431,
     "googleAddress": "34 N Canal Rd, #01-01, Singapore 059290",
-    "googleMapsUrl": "https://www.google.com/maps/search/Offtrack%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Offtrack%20Singapore",
+    "latitude": 1.287012634774046,
+    "longitude": 103.8472506325288
   },
   {
     "placeId": "ChIJa3O-HsUZ2jERsXCkMtTVRmM",
@@ -244,7 +280,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 242,
     "googleAddress": "69 Jellicoe Rd, #01-05, Singapore 208737",
-    "googleMapsUrl": "https://www.google.com/maps/search/Pacto%20by%20Parchmen%20(Lavender)%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Pacto%20by%20Parchmen%20(Lavender)%20Singapore",
+    "latitude": 1.308004174711576,
+    "longitude": 103.8617865683514
   },
   {
     "placeId": "ChIJaX-1xkoZ2jERLd5X0SKIxqQ",
@@ -257,7 +295,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 2873,
     "googleAddress": "10 Craig Rd, Singapore 089670",
-    "googleMapsUrl": "https://www.google.com/maps/search/Fortuna%20Terrazza%20Cafe%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Fortuna%20Terrazza%20Cafe%20Singapore",
+    "latitude": 1.277723085365519,
+    "longitude": 103.8427532925167
   },
   {
     "placeId": "ChIJB-m48cYZ2jERe_sL37dvI98",
@@ -270,7 +310,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 307,
     "googleAddress": "60 Collyer Quay, Tower, Level 8, OUE 049322",
-    "googleMapsUrl": "https://www.google.com/maps/search/USHIO%20Sumiyaki%20%26%20Sake%20Bar%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/USHIO%20Sumiyaki%20%26%20Sake%20Bar%20Singapore",
+    "latitude": 1.283020861061054,
+    "longitude": 103.8529228383289
   },
   {
     "placeId": "ChIJbe5apjwZ2jERwRjQ1ewP0S0",
@@ -283,7 +325,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 794,
     "googleAddress": "168 Robinson Rd, Level 52 Capital Tower, Singapore 068912",
-    "googleMapsUrl": "https://www.google.com/maps/search/SUSHISAMBA%20Singapore%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/SUSHISAMBA%20Singapore%20Singapore",
+    "latitude": 1.277630732608236,
+    "longitude": 103.847572724879
   },
   {
     "placeId": "ChIJBYahSwAZ2jERKIb4X5jL9vw",
@@ -296,7 +340,9 @@
     "googleRating": 4.9,
     "googleRatingCount": 219,
     "googleAddress": "Duxton Rd, SG#73 邮政编码: 089532",
-    "googleMapsUrl": "https://www.google.com/maps/search/cococean%20coconut%20water%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/cococean%20coconut%20water%20Singapore",
+    "latitude": 1.278223276507915,
+    "longitude": 103.8430095580809
   },
   {
     "placeId": "ChIJCT3xvhoZ2jERF_g-hcvpdis",
@@ -309,7 +355,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 785,
     "googleAddress": "64 Club St, Back Entrance, Singapore 069438",
-    "googleMapsUrl": "https://www.google.com/maps/search/Maxi%20Coffee%20Bar%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Maxi%20Coffee%20Bar%20Singapore",
+    "latitude": 1.281492171865837,
+    "longitude": 103.8459747981668
   },
   {
     "placeId": "ChIJcYM_f_Ib2jER7XUoHt4sqr0",
@@ -322,7 +370,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 200,
     "googleAddress": "8 Purvis St, #02-01, Singapore 188587",
-    "googleMapsUrl": "https://www.google.com/maps/search/Last%20Word%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Last%20Word%20Singapore",
+    "latitude": 1.296743982150292,
+    "longitude": 103.8551974334359
   },
   {
     "placeId": "ChIJDdZfPqkZ2jEREGMnSEjmu3A",
@@ -335,7 +385,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 217,
     "googleAddress": "City Gate #01-14, 371 Beach Road (Facing Main Road, beside taxi stand, 199597",
-    "googleMapsUrl": "https://www.google.com/maps/search/Croissand%20Cafe%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Croissand%20Cafe%20Singapore",
+    "latitude": 1.302315905045754,
+    "longitude": 103.8623316610334
   },
   {
     "placeId": "ChIJdxMxjHcZ2jER3HAj-jNZeLg",
@@ -348,7 +400,9 @@
     "googleRating": 4.9,
     "googleRatingCount": 4080,
     "googleAddress": "223 Rangoon Rd, #01-01/02, Singapore 218460",
-    "googleMapsUrl": "https://www.google.com/maps/search/SHAO%20Rangoon%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/SHAO%20Rangoon%20Singapore",
+    "latitude": 1.317823909415704,
+    "longitude": 103.8522250927167
   },
   {
     "placeId": "ChIJE7eTozM92jERR8WgrQv7HUY",
@@ -361,7 +415,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 231,
     "googleAddress": "13 Tampines St. 11, #01-03 Tampines Changkat Community Club, Singapore 529453",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Puffs%20And%20Peaks%20Bakery%20Cafe&query_place_id=ChIJE7eTozM92jERR8WgrQv7HUY"
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Puffs%20And%20Peaks%20Bakery%20Cafe&query_place_id=ChIJE7eTozM92jERR8WgrQv7HUY",
+    "latitude": 1.345849850368457,
+    "longitude": 103.9475498098061
   },
   {
     "placeId": "ChIJE7ZtOWwZ2jERFcasWYmljJQ",
@@ -374,7 +430,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 2299,
     "googleAddress": "4 Everton Prk, #01-40, Singapore 080004",
-    "googleMapsUrl": "https://www.google.com/maps/search/Nylon%20Coffee%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Nylon%20Coffee%20Singapore",
+    "latitude": 1.276883073637672,
+    "longitude": 103.8400856279028
   },
   {
     "placeId": "ChIJEymxLoAZ2jERb0tBtxQaxmQ",
@@ -387,7 +445,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 1833,
     "googleAddress": "190 Middle Rd, #02-08 Fortune Centre, Singapore 188979",
-    "googleMapsUrl": "https://www.google.com/maps/search/Yat%20Ka%20Yan%20Dessert%20(Fortune%20Centre)%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Yat%20Ka%20Yan%20Dessert%20(Fortune%20Centre)%20Singapore",
+    "latitude": 1.300422419139759,
+    "longitude": 103.8522866273858
   },
   {
     "placeId": "ChIJFT9xPAAZ2jERvtJm92RY204",
@@ -400,7 +460,9 @@
     "googleRating": 4.8,
     "googleRatingCount": 251,
     "googleAddress": "80 Club St, Singapore 069448",
-    "googleMapsUrl": "https://www.google.com/maps/search/QingHe%20Charcoal%20BBQ%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/QingHe%20Charcoal%20BBQ%20Singapore",
+    "latitude": 1.281983081070163,
+    "longitude": 103.8456485480926
   },
   {
     "placeId": "ChIJGRb30_Qb2jERDhsB6xV90Hk",
@@ -413,7 +475,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 535,
     "googleAddress": "1 W Coast Dr, #01-92, Singapore 128020",
-    "googleMapsUrl": "https://www.google.com/maps/search/Simple%20Cafe%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Simple%20Cafe%20Singapore",
+    "latitude": 1.316413218925108,
+    "longitude": 103.7574512632992
   },
   {
     "placeId": "ChIJGyk7PFsZ2jER8Bh_8B9U6rM",
@@ -426,7 +490,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 611,
     "googleAddress": "6 Bukit Pasoh Rd, Singapore 089820",
-    "googleMapsUrl": "https://www.google.com/maps/search/Baker's%20Bench%20Bakery%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Baker's%20Bench%20Bakery%20Singapore",
+    "latitude": 1.278777335164339,
+    "longitude": 103.8409951876169
   },
   {
     "placeId": "ChIJGYq6TgAZ2jERTW5npgl_lF4",
@@ -439,7 +505,9 @@
     "googleRating": 4.9,
     "googleRatingCount": 37,
     "googleAddress": "531A Upper Cross St, #02-38, Singapore 051531",
-    "googleMapsUrl": "https://www.google.com/maps/search/Vic's%20Mini%20Lava%20Cheesecake%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Vic's%20Mini%20Lava%20Cheesecake%20Singapore",
+    "latitude": 1.285299077367731,
+    "longitude": 103.8458238020424
   },
   {
     "placeId": "ChIJHcCeQawb2jERL6m_6fp1bII",
@@ -452,7 +520,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 892,
     "googleAddress": "14 Scotts Rd, #01-17/18/19, Singapore 228213",
-    "googleMapsUrl": "https://www.google.com/maps/search/The%20Mediterranean%20Deli%20Turk%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/The%20Mediterranean%20Deli%20Turk%20Singapore",
+    "latitude": 1.307176980711882,
+    "longitude": 103.833792932243
   },
   {
     "placeId": "ChIJI334k48Z2jERRuGSfOS78ww",
@@ -465,7 +535,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 370,
     "googleAddress": "104 Amoy St, Singapore 069924",
-    "googleMapsUrl": "https://www.google.com/maps/search/Hayop%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Hayop%20Singapore",
+    "latitude": 1.281769619438343,
+    "longitude": 103.8473360365897
   },
   {
     "placeId": "ChIJIxNKcs8b2jER_qRtK-FF8z8",
@@ -478,7 +550,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 1051,
     "googleAddress": "10 Dempsey Rd, #01-21, Singapore 247700",
-    "googleMapsUrl": "https://www.google.com/maps/search/TINTO%20Spanish%20Restaurant%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/TINTO%20Spanish%20Restaurant%20Singapore",
+    "latitude": 1.303297672702419,
+    "longitude": 103.8104116917399
   },
   {
     "placeId": "ChIJJTwDf-cZ2jERfOI-93thWF8",
@@ -491,7 +565,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 62,
     "googleAddress": "50 S Bridge Rd, #06-00, Singapore 058682",
-    "googleMapsUrl": "https://www.google.com/maps/search/ABODE%20Rooftop%20Bar%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/ABODE%20Rooftop%20Bar%20Singapore",
+    "latitude": 1.287694823599851,
+    "longitude": 103.8482303295113
   },
   {
     "placeId": "ChIJk04hRdgZ2jER-20uIYTmdYc",
@@ -504,7 +580,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 259,
     "googleAddress": "75 Duxton Rd, Singapore 089534",
-    "googleMapsUrl": "https://www.google.com/maps/search/Cat%20Bite%20Club%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Cat%20Bite%20Club%20Singapore",
+    "latitude": 1.278311729593291,
+    "longitude": 103.8430585150354
   },
   {
     "placeId": "ChIJK2nDMCAZ2jERG_UOmm81_yc",
@@ -517,7 +595,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 3151,
     "googleAddress": "3 Temasek Boulevard #03-304/305, Sky Garden Suntec City, 038983",
-    "googleMapsUrl": "https://www.google.com/maps/search/SOTPOT%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/SOTPOT%20Singapore",
+    "latitude": 1.295931894771942,
+    "longitude": 103.8590144067362
   },
   {
     "placeId": "ChIJKXR2o7gb2jERsOj3JcWJIY4",
@@ -530,7 +610,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 221,
     "googleAddress": "211 Holland Ave, #02-03 Holland Road Shopping Centre, Singapore 278967",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tsukiji%20Kaisendon&query_place_id=ChIJKXR2o7gb2jERsOj3JcWJIY4"
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tsukiji%20Kaisendon&query_place_id=ChIJKXR2o7gb2jERsOj3JcWJIY4",
+    "latitude": 1.310277475741183,
+    "longitude": 103.7953711631031
   },
   {
     "placeId": "ChIJL1jSHKEZ2jERROc6O_oTm3I",
@@ -543,7 +625,9 @@
     "googleRating": 4.8,
     "googleRatingCount": 3967,
     "googleAddress": "Song Gye Ok, 113 Telok Ayer St, 068582",
-    "googleMapsUrl": "https://www.google.com/maps/search/Song%20Gye%20Ok%20(Telok%20Ayer)%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Song%20Gye%20Ok%20(Telok%20Ayer)%20Singapore",
+    "latitude": 1.28155804161443,
+    "longitude": 103.8482964285194
   },
   {
     "placeId": "ChIJL41MdgAZ2jERByP6uNALi0Q",
@@ -556,7 +640,9 @@
     "googleRating": 4.8,
     "googleRatingCount": 199,
     "googleAddress": "33 Jln Sultan, #01-01 #01-02, Singapore 198965",
-    "googleMapsUrl": "https://www.google.com/maps/search/hejcake%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/hejcake%20Singapore",
+    "latitude": 1.302012808543503,
+    "longitude": 103.8617292964141
   },
   {
     "placeId": "ChIJMQtkiZQZ2jER13d3p_-JRuE",
@@ -569,7 +655,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 177,
     "googleAddress": "1 Grange Rd, #01-03, Singapore 239693",
-    "googleMapsUrl": "https://www.google.com/maps/search/Kurasu%20Singapore%20The%20Stand%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Kurasu%20Singapore%20The%20Stand%20Singapore",
+    "latitude": 1.301398801657898,
+    "longitude": 103.8373591583593
   },
   {
     "placeId": "ChIJNeCJszIZ2jERYCiJ6Zl44RY",
@@ -582,7 +670,9 @@
     "googleRating": 4.8,
     "googleRatingCount": 246,
     "googleAddress": "161 Lavender St., #01-12, Singapore 338750",
-    "googleMapsUrl": "https://www.google.com/maps/search/Luni%20-%20Scent%2C%20Bar%20%26%20Kitchen%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Luni%20-%20Scent%2C%20Bar%20%26%20Kitchen%20Singapore",
+    "latitude": 1.312749979358099,
+    "longitude": 103.860851344985
   },
   {
     "placeId": "ChIJObpj570Z2jER5JzqDYnKtOc",
@@ -595,7 +685,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 590,
     "googleAddress": "2 Fowlie Rd, #01-01, Singapore 428505",
-    "googleMapsUrl": "https://www.google.com/maps/search/big%20short%20coffee%20%3A%20joo%20chiat%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/big%20short%20coffee%20%3A%20joo%20chiat%20Singapore",
+    "latitude": 1.307561081016846,
+    "longitude": 103.9034796413063
   },
   {
     "placeId": "ChIJoVe7mlIZ2jERv4vymmqb_rM",
@@ -608,7 +700,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 3145,
     "googleAddress": "50 Tg Pagar Rd, Singapore 088471",
-    "googleMapsUrl": "https://www.google.com/maps/search/HANKANG%20POCHA%20(Tanjong%20Pagar)%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/HANKANG%20POCHA%20(Tanjong%20Pagar)%20Singapore",
+    "latitude": 1.279202478857399,
+    "longitude": 103.8436656859234
   },
   {
     "placeId": "ChIJp_ljwSwZ2jERC3HrRsg6mF8",
@@ -621,7 +715,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 457,
     "googleAddress": "35 N Canal Rd, Unit 01-01, Singapore 059291",
-    "googleMapsUrl": "https://www.google.com/maps/search/Ember%20Woodfire%20Restaurant%20%26%20Wine%20Bar%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Ember%20Woodfire%20Restaurant%20%26%20Wine%20Bar%20Singapore",
+    "latitude": 1.286959583067363,
+    "longitude": 103.8471614301404
   },
   {
     "placeId": "ChIJp_msfr8Z2jERhTAYrsHz6j4",
@@ -634,7 +730,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 396,
     "googleAddress": "531 Upper Cross St, #02-60 Hong Lim Complex, Singapore 050531",
-    "googleMapsUrl": "https://www.google.com/maps/search/Spring%20Coffee%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Spring%20Coffee%20Singapore",
+    "latitude": 1.284392382174826,
+    "longitude": 103.8461014719971
   },
   {
     "placeId": "ChIJq0Qrde0Z2jERcHFh2aaynck",
@@ -647,7 +745,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 6737,
     "googleAddress": "10 Scotts Rd, Singapore 228211",
-    "googleMapsUrl": "https://www.google.com/maps/search/Grand%20Hyatt%20Singapore%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Grand%20Hyatt%20Singapore%20Singapore",
+    "latitude": 1.306373002912671,
+    "longitude": 103.8332571766221
   },
   {
     "placeId": "ChIJqTNXUWcZ2jERV1pys7I2xwk",
@@ -660,7 +760,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 1201,
     "googleAddress": "10 Trengganu St, Singapore 058464",
-    "googleMapsUrl": "https://www.google.com/maps/search/nakey%20Chinatown%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/nakey%20Chinatown%20Singapore",
+    "latitude": 1.283162491071425,
+    "longitude": 103.8441280532078
   },
   {
     "placeId": "ChIJR4mYrOcb2jERTey5zPiCt04",
@@ -673,7 +775,9 @@
     "googleRating": 4.4,
     "googleRatingCount": 200,
     "googleAddress": "20 Lengkok Bahru, #01-20 Enabling Village Outpost, Singapore 159053",
-    "googleMapsUrl": "https://www.google.com/maps/search/Mad%20Roaster's%20Slow%20Bar%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Mad%20Roaster's%20Slow%20Bar%20Singapore",
+    "latitude": 1.287366040925551,
+    "longitude": 103.8148181252094
   },
   {
     "placeId": "ChIJrx6-McIZ2jER901F7F1QhEs",
@@ -686,7 +790,9 @@
     "googleRating": 4.8,
     "googleRatingCount": 965,
     "googleAddress": "96 Amoy St, Singapore 069916",
-    "googleMapsUrl": "https://www.google.com/maps/search/MODU%20High%20(Amoy%20Street)%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/MODU%20High%20(Amoy%20Street)%20Singapore",
+    "latitude": 1.2814295206948,
+    "longitude": 103.847130128011
   },
   {
     "placeId": "ChIJRyl7mkgZ2jER03rYGo70tJU",
@@ -699,7 +805,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 911,
     "googleAddress": "133 New Bridge Rd, #02-39 Chinatown Point, Singapore 059413",
-    "googleMapsUrl": "https://www.google.com/maps/search/Kra%20Pow%20Thai%20Restaurant%20(Chinatown%20Point)%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Kra%20Pow%20Thai%20Restaurant%20(Chinatown%20Point)%20Singapore",
+    "latitude": 1.284998828474023,
+    "longitude": 103.8446970811421
   },
   {
     "placeId": "ChIJS2TYKdUZ2jERaXcMR9xevBM",
@@ -712,7 +820,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 255,
     "googleAddress": "15 Stamford Rd, #01-84A, Singapore 178906",
-    "googleMapsUrl": "https://www.google.com/maps/search/Choon%20Hoy%20Parlor%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Choon%20Hoy%20Parlor%20Singapore",
+    "latitude": 1.293444802071326,
+    "longitude": 103.8515321155797
   },
   {
     "placeId": "ChIJT5G9lD4Z2jERLcvbGHf4FG4",
@@ -725,7 +835,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 862,
     "googleAddress": "10 Anson Rd, #02-85A 凯联大厦 Singapore 079903",
-    "googleMapsUrl": "https://www.google.com/maps/search/Enishi%20%40%20International%20Plaza%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Enishi%20%40%20International%20Plaza%20Singapore",
+    "latitude": 1.27588674266837,
+    "longitude": 103.845923793168
   },
   {
     "placeId": "ChIJtZsW8PoZ2jERyXuVctib2fs",
@@ -738,7 +850,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 603,
     "googleAddress": "8 Raffles Ave., Level 4 Esplanade Mall, Singapore 039802",
-    "googleMapsUrl": "https://www.google.com/maps/search/Baia%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Baia%20Singapore",
+    "latitude": 1.28964784521264,
+    "longitude": 103.8562672509768
   },
   {
     "placeId": "ChIJU_2KeToY2jER47l6QQxmtoM",
@@ -751,7 +865,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 2153,
     "googleAddress": "Lorong 21 Geylang, 29 Lor Bachok, #29, Singapore 387791",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tan%20Ser%20Seng%20Herbal%20Soup&query_place_id=ChIJU_2KeToY2jER47l6QQxmtoM"
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tan%20Ser%20Seng%20Herbal%20Soup&query_place_id=ChIJU_2KeToY2jER47l6QQxmtoM",
+    "latitude": 1.31415769699158,
+    "longitude": 103.879933797398
   },
   {
     "placeId": "ChIJU-dtEiYZ2jERu8y21-cOJFM",
@@ -764,7 +880,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 304,
     "googleAddress": "74A Amoy St, Singapore 069893",
-    "googleMapsUrl": "https://www.google.com/maps/search/Fura%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Fura%20Singapore",
+    "latitude": 1.280380624338634,
+    "longitude": 103.8465875905641
   },
   {
     "placeId": "ChIJu61YldMZ2jERPbvT91UjhPI",
@@ -777,7 +895,9 @@
     "googleRating": 4.9,
     "googleRatingCount": 1730,
     "googleAddress": "13 Stanley St, Singapore 068732",
-    "googleMapsUrl": "https://www.google.com/maps/search/CUDO%20at%20Stanley%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/CUDO%20at%20Stanley%20Singapore",
+    "latitude": 1.280359869132083,
+    "longitude": 103.8479300894432
   },
   {
     "placeId": "ChIJV2Rcy10Z2jERpX80mwqqYsE",
@@ -790,7 +910,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 413,
     "googleAddress": "100 Guillemard Rd, #01-02, Singapore 399718",
-    "googleMapsUrl": "https://www.google.com/maps/search/Vernacular%20Coffee%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Vernacular%20Coffee%20Singapore",
+    "latitude": 1.309908414819832,
+    "longitude": 103.8818419328123
   },
   {
     "placeId": "ChIJV5Ptnz0Z2jERqwUz5BKROPY",
@@ -803,7 +925,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 4144,
     "googleAddress": "22 Flanders Square, Singapore 209306",
-    "googleMapsUrl": "https://www.google.com/maps/search/Kozen%20Sushi%20Bar%20%26%20Restaurant%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Kozen%20Sushi%20Bar%20%26%20Restaurant%20Singapore",
+    "latitude": 1.312123981650977,
+    "longitude": 103.8572299975264
   },
   {
     "placeId": "ChIJWbwoihEZ2jER8DDLCxrd38o",
@@ -816,7 +940,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 2291,
     "googleAddress": "12 Marina Vw, Asia Square Tower 2, Singapore 018961",
-    "googleMapsUrl": "https://www.google.com/maps/search/The%20Westin%20Singapore%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/The%20Westin%20Singapore%20Singapore",
+    "latitude": 1.278229499645664,
+    "longitude": 103.8508125134819
   },
   {
     "placeId": "ChIJWbZRQQAZ2jERS5HSArJbi1U",
@@ -829,7 +955,9 @@
     "googleRating": 4.8,
     "googleRatingCount": 2047,
     "googleAddress": "15 Crane Rd, Singapore 429360",
-    "googleMapsUrl": "https://www.google.com/maps/search/Bites%20%26%20Brews%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Bites%20%26%20Brews%20Singapore",
+    "latitude": 1.312270047201996,
+    "longitude": 103.898916299907
   },
   {
     "placeId": "ChIJY3ISdQAZ2jERa7dvJ0iI_Iw",
@@ -842,7 +970,9 @@
     "googleRating": 4.3,
     "googleRatingCount": 79,
     "googleAddress": "2 Orchard Link, #02-32, Singapore 237978",
-    "googleMapsUrl": "https://www.google.com/maps/search/KREMI%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/KREMI%20Singapore",
+    "latitude": 1.301010953395632,
+    "longitude": 103.835724109292
   },
   {
     "placeId": "ChIJyRJvdrMZ2jERpcCkSyqNYI8",
@@ -855,7 +985,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 1546,
     "googleAddress": "139 Selegie Rd, #01-01, Singapore 188309",
-    "googleMapsUrl": "https://www.google.com/maps/search/Apartment%20Coffee%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Apartment%20Coffee%20Singapore",
+    "latitude": 1.30277801701808,
+    "longitude": 103.8498513436258
   },
   {
     "placeId": "ChIJyxwmLRs92jER8OyRAlZQwQ0",
@@ -868,7 +1000,9 @@
     "googleRating": 4.8,
     "googleRatingCount": 537,
     "googleAddress": "430 Upper Changi Rd, #01-03 East Village Mall, Singapore 487048",
-    "googleMapsUrl": "https://www.google.com/maps/search/Ramen-ya%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Ramen-ya%20Singapore",
+    "latitude": 1.331775815030507,
+    "longitude": 103.9462012415909
   },
   {
     "placeId": "xhs-0822963756ce70ec17b89df3",
@@ -881,7 +1015,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 193,
     "googleAddress": "1 Neil Rd, #01-01, Singapore 088804",
-    "googleMapsUrl": "https://www.google.com/maps/search/Born%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Born%20Singapore",
+    "latitude": 1.2803733,
+    "longitude": 103.8438899
   },
   {
     "placeId": "xhs-1425a281f251c9b07df09f19",
@@ -894,7 +1030,9 @@
     "googleRating": 4.8,
     "googleRatingCount": 112,
     "googleAddress": "101 Penang Rd, #02-01 House of Tan Yeok Nee, Singapore 238466",
-    "googleMapsUrl": "https://www.google.com/maps/search/Loca%20Niru%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Loca%20Niru%20Singapore",
+    "latitude": 1.2987328999999999,
+    "longitude": 103.84325849999999
   },
   {
     "placeId": "xhs-2f18f928f928eeef3b1493b4",
@@ -907,7 +1045,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 1473,
     "googleAddress": "1 St Andrew's Rd, #01-04 National Gallery, Singapore 178957",
-    "googleMapsUrl": "https://www.google.com/maps/search/Odette%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Odette%20Singapore",
+    "latitude": 1.2897067,
+    "longitude": 103.8514433
   },
   {
     "placeId": "xhs-357a36d6c564c667373a6651",
@@ -920,7 +1060,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 877,
     "googleAddress": "7 Raffles Ave., Level 3 The Ritz-Carlton, Millenia, Singapore 039799",
-    "googleMapsUrl": "https://www.google.com/maps/search/Summer%20Pavilion%20%E5%A4%8F%E8%8B%91%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Summer%20Pavilion%20%E5%A4%8F%E8%8B%91%20Singapore",
+    "latitude": 1.290730524431599,
+    "longitude": 103.8600994441713
   },
   {
     "placeId": "xhs-378bfce5cda2599a6cda399f",
@@ -933,7 +1075,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 2012,
     "googleAddress": "10 Bayfront Ave, B1-71 The Shoppes, Marina Bay Sands, Singapore 018956",
-    "googleMapsUrl": "https://www.google.com/maps/search/Cut%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Cut%20Singapore",
+    "latitude": 1.285317,
+    "longitude": 103.8594937
   },
   {
     "placeId": "xhs-37ba964ab808e02048b8850e",
@@ -946,7 +1090,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 582,
     "googleAddress": "7 Mohamed Sultan Rd, Singapore 238957",
-    "googleMapsUrl": "https://www.google.com/maps/search/Lerouy%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Lerouy%20Singapore",
+    "latitude": 1.2939490999999999,
+    "longitude": 103.841848
   },
   {
     "placeId": "xhs-4947c5c9add410da2f670ee2",
@@ -959,7 +1105,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 510,
     "googleAddress": "16 Mohamed Sultan Rd, Singapore 238965",
-    "googleMapsUrl": "https://www.google.com/maps/search/Thevar%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Thevar%20Singapore",
+    "latitude": 1.293610365934297,
+    "longitude": 103.8414594536
   },
   {
     "placeId": "xhs-4f6f362d2b31ce0bbfbf3306",
@@ -972,7 +1120,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 655,
     "googleAddress": "1 Cuscaden Rd, Level 3, Singapore 249715",
-    "googleMapsUrl": "https://www.google.com/maps/search/Summer%20Palace%20%E5%A4%8F%E5%AE%AB%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Summer%20Palace%20%E5%A4%8F%E5%AE%AB%20Singapore",
+    "latitude": 1.304651583018687,
+    "longitude": 103.8249078587376
   },
   {
     "placeId": "xhs-552c38f0c9c7ffc2b28899c3",
@@ -985,7 +1135,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 740,
     "googleAddress": "2 Stamford Rd, Level 70, Singapore 178882",
-    "googleMapsUrl": "https://www.google.com/maps/search/Jaan%20by%20Kirk%20Westaway%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Jaan%20by%20Kirk%20Westaway%20Singapore",
+    "latitude": 1.2933071,
+    "longitude": 103.85373829999999
   },
   {
     "placeId": "xhs-5e27537d67c08cd7599351c2",
@@ -998,7 +1150,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 176,
     "googleAddress": "320 Orchard Rd, #01-04 新加坡董厦万豪酒店 Singapore 238865",
-    "googleMapsUrl": "https://www.google.com/maps/search/Sushi%20Ichi%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Sushi%20Ichi%20Singapore",
+    "latitude": 1.305057830903753,
+    "longitude": 103.8330606562213
   },
   {
     "placeId": "xhs-61a1be69d4a9ba1e5bbbeed2",
@@ -1011,7 +1165,24 @@
     "googleRating": 4.8,
     "googleRatingCount": 644,
     "googleAddress": "41 Robertson Quay, #02-02 STPI, Singapore 238236",
-    "googleMapsUrl": "https://www.google.com/maps/search/Restaurant%20JAG%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Restaurant%20JAG%20Singapore",
+    "latitude": 1.2911017999999999,
+    "longitude": 103.8402617
+  },
+  {
+    "placeId": "xhs-6467e38744c7e0ceb186db4f",
+    "name": "CMJ Kitchen 潮满记老潮汕饭店",
+    "category": "FOOD",
+    "wishDishes": "潮汕牛肉、卤鹅",
+    "sourceLink": "https://www.xiaohongshu.com/explore/66bc2515000000000502153c",
+    "note": "从纯美食的新山七小时路线拆分；收藏原文记录人均 RM73。",
+    "pricePerPerson": "RM73",
+    "googleRating": 4.5,
+    "googleRatingCount": 407,
+    "googleAddress": "R&F Mall, LOT G-001, Tanjung Puteri, 80300 Johor Bahru, Johor, Malaysia",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CMJ%20Kitchen%20%E6%BD%AE%E6%BB%A1%E8%AE%B0%E8%80%81%E6%BD%AE%E6%B1%95%E9%A5%AD%E5%BA%97%2C%20R%26F%20Mall%2C%20LOT%20G-001%2C%20Tanjung%20Puteri%2C%2080300%20Johor%20Bahru%2C%20Johor%2C%20Malaysia",
+    "latitude": 1.4587157,
+    "longitude": 103.76856169999999
   },
   {
     "placeId": "xhs-6af8ae9977a508d8f9f89f35",
@@ -1024,7 +1195,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 697,
     "googleAddress": "30 Victoria St, #01-26/27 赞美广场 Singapore 187996",
-    "googleMapsUrl": "https://www.google.com/maps/search/Whitegrass%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Whitegrass%20Singapore",
+    "latitude": 1.294796709563321,
+    "longitude": 103.8525733660326
   },
   {
     "placeId": "xhs-7408ebc7ff3e6fd1e524cbd7",
@@ -1037,7 +1210,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 547,
     "googleAddress": "5 Raffles Ave., Floor 5, Singapore 039797",
-    "googleMapsUrl": "https://www.google.com/maps/search/Cherry%20Garden%20by%20Chef%20Fei%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Cherry%20Garden%20by%20Chef%20Fei%20Singapore",
+    "latitude": 1.2906908,
+    "longitude": 103.858311
   },
   {
     "placeId": "xhs-7a73707872ce94cc23d7013e",
@@ -1050,7 +1225,9 @@
     "googleRating": 4.9,
     "googleRatingCount": 62,
     "googleAddress": "9 Raffles Blvd, #01-09 Millenia Walk, Singapore 039596",
-    "googleMapsUrl": "https://www.google.com/maps/search/Tenshima%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Tenshima%20Singapore",
+    "latitude": 1.292605444624933,
+    "longitude": 103.8597249444427
   },
   {
     "placeId": "xhs-80daa4fd686064628c039a64",
@@ -1063,7 +1240,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 4729,
     "googleAddress": "68 Orchard Rd, #B2-20, Singapore 238839",
-    "googleMapsUrl": "https://www.google.com/maps/search/Co%20Chung%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Co%20Chung%20Singapore",
+    "latitude": 1.3007111,
+    "longitude": 103.844904
   },
   {
     "placeId": "xhs-8149569c5b07f28b886d3df8",
@@ -1076,7 +1255,24 @@
     "googleRating": 4.6,
     "googleRatingCount": 1730,
     "googleAddress": "328 Joo Chiat Rd, #01-05, Singapore 427585",
-    "googleMapsUrl": "https://www.google.com/maps/search/Kings%20Cart%20Coffee%20Factory%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Kings%20Cart%20Coffee%20Factory%20Singapore",
+    "latitude": 1.3090864,
+    "longitude": 103.9023852
+  },
+  {
+    "placeId": "xhs-82f10b5401295f29e8da4868",
+    "name": "Warung Guling Pak Made",
+    "category": "FOOD",
+    "wishDishes": "Nasi Samcan Guling、烤五花与巴厘风味套餐",
+    "sourceLink": "https://www.xiaohongshu.com/explore/69b4176c000000002200d3f3",
+    "note": "从巴淡岛三天两夜收藏中的餐饮站点拆分；玩乐路线本身继续保留。",
+    "pricePerPerson": "",
+    "googleRating": 4.8,
+    "googleRatingCount": 816,
+    "googleAddress": "Blk. B, Jl. Imam Bonjol-Komplek Nagoya Newtown No.6-7, Lubuk Baja Kota, Batam 29444, Indonesia",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Warung%20Guling%20Pak%20Made%2C%20Blk.%20B%2C%20Jl.%20Imam%20Bonjol-Komplek%20Nagoya%20Newtown%20No.6-7%2C%20Lubuk%20Baja%20Kota%2C%20Batam%2029444%2C%20Indonesia",
+    "latitude": 1.1445446,
+    "longitude": 104.0068852
   },
   {
     "placeId": "xhs-85233e51599001647395fe6c",
@@ -1089,7 +1285,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 942,
     "googleAddress": "Blk 3A River Valley Rd, #02-03, Singapore 179020",
-    "googleMapsUrl": "https://www.google.com/maps/search/Home%20Dawn%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Home%20Dawn%20Singapore",
+    "latitude": 1.2900277999999998,
+    "longitude": 103.8448322
   },
   {
     "placeId": "xhs-92e4accd3d41d63fe7698c06",
@@ -1102,7 +1300,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 393,
     "googleAddress": "41 Bukit Pasoh Rd, Singapore 089855",
-    "googleMapsUrl": "https://www.google.com/maps/search/Zen%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Zen%20Singapore",
+    "latitude": 1.279451087990204,
+    "longitude": 103.8403202377545
   },
   {
     "placeId": "xhs-99002b00527bc85f9cb93f74",
@@ -1115,7 +1315,24 @@
     "googleRating": 4.8,
     "googleRatingCount": 83,
     "googleAddress": "9 Raffles Blvd, #01-06/07/08 Millenia Walk, Singapore 039596",
-    "googleMapsUrl": "https://www.google.com/maps/search/Sushi%20Sakuta%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Sushi%20Sakuta%20Singapore",
+    "latitude": 1.292605444624933,
+    "longitude": 103.8597249444427
+  },
+  {
+    "placeId": "xhs-9cd590f9df1b64d391b7267d",
+    "name": "Cosford Container Park",
+    "category": "FOOD",
+    "wishDishes": "边吃边看飞机、现场音乐",
+    "sourceLink": "https://www.xiaohongshu.com/explore/6a6477df0000000002003c00",
+    "note": "从「玩乐」迁入探店：露天餐饮集装箱园区，可近距离看飞机。另一个收藏来源：6a380b59000000000803f923。",
+    "pricePerPerson": "",
+    "googleRating": 4.8,
+    "googleRatingCount": 5782,
+    "googleAddress": "30 Cosford Rd, Singapore 499550",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cosford%20Container%20Park%2C%2030%20Cosford%20Rd%2C%20Singapore%20499550",
+    "latitude": 1.3652545,
+    "longitude": 103.98123179999999
   },
   {
     "placeId": "xhs-a18a0295a4dd806e1699221e",
@@ -1128,7 +1345,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 365,
     "googleAddress": "38 Craig Rd, Singapore 089676",
-    "googleMapsUrl": "https://www.google.com/maps/search/Ma%20Cuisine%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Ma%20Cuisine%20Singapore",
+    "latitude": 1.2783103999999998,
+    "longitude": 103.84181749999999
   },
   {
     "placeId": "xhs-a4a9787c58fbf8b6be92aef0",
@@ -1141,7 +1360,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 347,
     "googleAddress": "29 Scotts Rd, Singapore 228224",
-    "googleMapsUrl": "https://www.google.com/maps/search/Buona%20Terra%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Buona%20Terra%20Singapore",
+    "latitude": 1.310717,
+    "longitude": 103.834701
   },
   {
     "placeId": "xhs-a80a57d2b40a99fedbfc9b91",
@@ -1154,7 +1375,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 265,
     "googleAddress": "7 Fraser St, #01-30/31/32/33 Duo Galleria, Singapore 189356",
-    "googleMapsUrl": "https://www.google.com/maps/search/Seroja%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Seroja%20Singapore",
+    "latitude": 1.299162959951907,
+    "longitude": 103.8578595366746
   },
   {
     "placeId": "xhs-a8e6eea11681e245a2cf23cf",
@@ -1167,7 +1390,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 238,
     "googleAddress": "18 Marina Gardens Dr, #01-09 花穹 Singapore 018953",
-    "googleMapsUrl": "https://www.google.com/maps/search/Marguerite%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Marguerite%20Singapore",
+    "latitude": 1.2848354,
+    "longitude": 103.86418169999999
   },
   {
     "placeId": "xhs-aac39c131d2b9e7b747e41e1",
@@ -1180,7 +1405,9 @@
     "googleRating": 4.8,
     "googleRatingCount": 2836,
     "googleAddress": "333 Orchard Rd, Level 35 文华大酒店 Singapore 238867",
-    "googleMapsUrl": "https://www.google.com/maps/search/Shisen%20Hanten%20%E5%9B%9B%E5%B7%9D%E9%A5%AD%E5%BA%97%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Shisen%20Hanten%20%E5%9B%9B%E5%B7%9D%E9%A5%AD%E5%BA%97%20Singapore",
+    "latitude": 1.3018688,
+    "longitude": 103.83589889999999
   },
   {
     "placeId": "xhs-b570c299a234e25bd0dcb45d",
@@ -1193,7 +1420,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 217,
     "googleAddress": "1 Fullerton Rd, #02-02A Fullerton Square Public Space, Singapore 049213",
-    "googleMapsUrl": "https://www.google.com/maps/search/Shoukouwa%20%E5%B0%8F%E5%BA%B7%E5%92%8C%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Shoukouwa%20%E5%B0%8F%E5%BA%B7%E5%92%8C%20Singapore",
+    "latitude": 1.286188592798012,
+    "longitude": 103.8541571399668
   },
   {
     "placeId": "xhs-b5770ffb228c4a8ccafd46f4",
@@ -1206,7 +1435,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 2250,
     "googleAddress": "26 Mohamed Sultan Rd, Singapore 238970",
-    "googleMapsUrl": "https://www.google.com/maps/search/Bistecca%20Tuscan%20Steakhouse%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Bistecca%20Tuscan%20Steakhouse%20Singapore",
+    "latitude": 1.2932694,
+    "longitude": 103.8413389
   },
   {
     "placeId": "xhs-b86fb38729be5c825cf9f938",
@@ -1219,7 +1450,9 @@
     "googleRating": 4.9,
     "googleRatingCount": 2785,
     "googleAddress": "19 Hamilton Rd, Singapore 209189",
-    "googleMapsUrl": "https://www.google.com/maps/search/L%C3%A0ng%20N%C6%B0%E1%BB%9Bng%201980's%20-%20Homey%20Authentic%20Vietnamese%20Cuisine%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/L%C3%A0ng%20N%C6%B0%E1%BB%9Bng%201980's%20-%20Homey%20Authentic%20Vietnamese%20Cuisine%20Singapore",
+    "latitude": 1.3114702,
+    "longitude": 103.8609556
   },
   {
     "placeId": "xhs-b8c49992e57cf574c143e63d",
@@ -1232,7 +1465,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 297,
     "googleAddress": "390 Orchard Rd, #01-07, Singapore 238871",
-    "googleMapsUrl": "https://www.google.com/maps/search/Sushi%20Kimura%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Sushi%20Kimura%20Singapore",
+    "latitude": 1.306654845431923,
+    "longitude": 103.8295880451874
   },
   {
     "placeId": "xhs-ba21579f222f9e5910f1fbaa",
@@ -1245,7 +1480,9 @@
     "googleRating": 4.9,
     "googleRatingCount": 46,
     "googleAddress": "216 Joo Chiat Rd, #01-05, Singapore 427483",
-    "googleMapsUrl": "https://www.google.com/maps/search/Studio%20Frond%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Studio%20Frond%20Singapore",
+    "latitude": 1.311960653325015,
+    "longitude": 103.9004247082418
   },
   {
     "placeId": "xhs-bb0ade59da2c923ef83afc6d",
@@ -1258,7 +1495,24 @@
     "googleRating": 4.9,
     "googleRatingCount": 117,
     "googleAddress": "58 Tras St, Singapore 078997",
-    "googleMapsUrl": "https://www.google.com/maps/search/Hamamoto%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Hamamoto%20Singapore",
+    "latitude": 1.2779357,
+    "longitude": 103.84428779999999
+  },
+  {
+    "placeId": "xhs-d59a14bc18241d0dc1f0ffda",
+    "name": "Nimmies Pastry Cafe",
+    "category": "COFFEE",
+    "wishDishes": "特调饮品、可颂与甜点",
+    "sourceLink": "https://www.xiaohongshu.com/explore/66bc2515000000000502153c",
+    "note": "从纯美食的新山七小时路线拆分；收藏原文记录人均 RM42。",
+    "pricePerPerson": "RM42",
+    "googleRating": 4.5,
+    "googleRatingCount": 9580,
+    "googleAddress": "171, Jln Beringin, Taman Melodies, 80250 Johor Bahru, Johor, Malaysia",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nimmies%20Pastry%20Cafe%2C%20171%2C%20Jln%20Beringin%2C%20Taman%20Melodies%2C%2080250%20Johor%20Bahru%2C%20Johor%2C%20Malaysia",
+    "latitude": 1.4904425,
+    "longitude": 103.7660516
   },
   {
     "placeId": "xhs-d9e15dc426dd9979ae01e9fe",
@@ -1271,7 +1525,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 591,
     "googleAddress": "8 Raffles Ave., #02 - 23, Singapore 039802",
-    "googleMapsUrl": "https://www.google.com/maps/search/Labyrinth%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Labyrinth%20Singapore",
+    "latitude": 1.2897489,
+    "longitude": 103.85629759999999
   },
   {
     "placeId": "xhs-da454b02b4700b1f5dc5f9de",
@@ -1284,7 +1540,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 325,
     "googleAddress": "39 Hongkong St, Singapore 059678",
-    "googleMapsUrl": "https://www.google.com/maps/search/Willow%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Willow%20Singapore",
+    "latitude": 1.287295649941023,
+    "longitude": 103.8473735063456
   },
   {
     "placeId": "xhs-dab1a65775fda0221a267e48",
@@ -1297,7 +1555,9 @@
     "googleRating": 4.9,
     "googleRatingCount": 148,
     "googleAddress": "30 Stevens Rd, #01-03, Singapore 257840",
-    "googleMapsUrl": "https://www.google.com/maps/search/Omakase%20%40%20Stevens%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Omakase%20%40%20Stevens%20Singapore",
+    "latitude": 1.313869454433776,
+    "longitude": 103.8286063638858
   },
   {
     "placeId": "xhs-dbab2f291f2c8f4bf7c177ff",
@@ -1310,7 +1570,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 183,
     "googleAddress": "Mondrian Singapore Duxton 83 Neil Road, Duxton Hl, #01-08 Access via, 089813",
-    "googleMapsUrl": "https://www.google.com/maps/search/Araya%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Araya%20Singapore",
+    "latitude": 1.2787787,
+    "longitude": 103.84206429999999
   },
   {
     "placeId": "xhs-e701db23e08a799e00567f0f",
@@ -1323,7 +1585,9 @@
     "googleRating": 4.8,
     "googleRatingCount": 144,
     "googleAddress": "11 Gallop Road Gallop Entrance, Singapore Botanic Gardens, 259015",
-    "googleMapsUrl": "https://www.google.com/maps/search/Pangium%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Pangium%20Singapore",
+    "latitude": 1.314500977568688,
+    "longitude": 103.8093325349819
   },
   {
     "placeId": "xhs-ea3bd73e2b506e00527232b3",
@@ -1336,7 +1600,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 524,
     "googleAddress": "9 Mohamed Sultan Rd, Meta Restaurant, Singapore 238959",
-    "googleMapsUrl": "https://www.google.com/maps/search/Meta%20Restaurant%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Meta%20Restaurant%20Singapore",
+    "latitude": 1.2939003999999998,
+    "longitude": 103.8418116
   },
   {
     "placeId": "xhs-ec2c37a75b58e8901b9c5158",
@@ -1349,7 +1615,9 @@
     "googleRating": 4.8,
     "googleRatingCount": 2079,
     "googleAddress": "13 Dempsey Rd, #01-03/04, Singapore 249674",
-    "googleMapsUrl": "https://www.google.com/maps/search/Mr.%20Bucket%20Chocolaterie%20-%20Dempsey%20Factory%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Mr.%20Bucket%20Chocolaterie%20-%20Dempsey%20Factory%20Singapore",
+    "latitude": 1.3047447,
+    "longitude": 103.8103509
   },
   {
     "placeId": "xhs-ec4e04f63fdcd95501e347e0",
@@ -1362,7 +1630,9 @@
     "googleRating": 4.5,
     "googleRatingCount": 2585,
     "googleAddress": "7 Dempsey Rd, #01-02, Singapore 249671",
-    "googleMapsUrl": "https://www.google.com/maps/search/Burnt%20Ends%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Burnt%20Ends%20Singapore",
+    "latitude": 1.304606,
+    "longitude": 103.8089925
   },
   {
     "placeId": "xhs-ec795a9f186447d20d1be7f9",
@@ -1375,7 +1645,9 @@
     "googleRating": 4.7,
     "googleRatingCount": 422,
     "googleAddress": "1 Fullerton Road, #02-02B, One Fullerton, 049213",
-    "googleMapsUrl": "https://www.google.com/maps/search/Saint%20Pierre%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Saint%20Pierre%20Singapore",
+    "latitude": 1.286188592798012,
+    "longitude": 103.8541571399668
   },
   {
     "placeId": "xhs-ef000f4f7054a8666c45b061",
@@ -1388,7 +1660,9 @@
     "googleRating": 4.8,
     "googleRatingCount": 293,
     "googleAddress": "50 Jurong Gateway Rd, #01 - 33 Jem, Singapore 608549",
-    "googleMapsUrl": "https://www.google.com/maps/search/Queic%20by%20Olivia%20(JEM)%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Queic%20by%20Olivia%20(JEM)%20Singapore",
+    "latitude": 1.3325983,
+    "longitude": 103.743206
   },
   {
     "placeId": "xhs-f56b76715bac9d71f325b404",
@@ -1401,7 +1675,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 955,
     "googleAddress": "1 Scotts Rd, #01 - 16 Shaw Centre, Singapore 228208",
-    "googleMapsUrl": "https://www.google.com/maps/search/Les%20Amis%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Les%20Amis%20Singapore",
+    "latitude": 1.3066019,
+    "longitude": 103.83143609999999
   },
   {
     "placeId": "xhs-f78d1c136f13b430fbf34598",
@@ -1414,7 +1690,24 @@
     "googleRating": 4.7,
     "googleRatingCount": 399,
     "googleAddress": "84 Amoy St, Singapore 069903",
-    "googleMapsUrl": "https://www.google.com/maps/search/Cloudstreet%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Cloudstreet%20Singapore",
+    "latitude": 1.2808405999999999,
+    "longitude": 103.8469588
+  },
+  {
+    "placeId": "xhs-f9494c34d2550a395d4b6d4c",
+    "name": "Un-Yang-Kor-Dai Singapore",
+    "category": "FOOD",
+    "wishDishes": "菠萝炒饭、冬阴功、招牌烤鸡、绿咖喱虾饼、打抛肉茄子、Pad See Ew、泰奶",
+    "sourceLink": "https://www.xiaohongshu.com/explore/68cd1df70000000013011d4a",
+    "note": "用户人工核对后从「玩乐」迁入探店；周末和节假日建议提前预约。",
+    "pricePerPerson": "$20-$30",
+    "googleRating": 4.5,
+    "googleRatingCount": 1401,
+    "googleAddress": "57 South Bridge Rd, #01-02, Singapore 058688",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Un-Yang-Kor-Dai%20Singapore%2C%2057%20South%20Bridge%20Rd%2C%20%2301-02%2C%20Singapore%20058688",
+    "latitude": 1.287037086406447,
+    "longitude": 103.8483268756124
   },
   {
     "placeId": "xhs-fea3e8aa23544b98eb33640e",
@@ -1427,7 +1720,9 @@
     "googleRating": 4.6,
     "googleRatingCount": 305,
     "googleAddress": "161 Telok Ayer St, Singapore 068615",
-    "googleMapsUrl": "https://www.google.com/maps/search/Nae%3Aum%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Nae%3Aum%20Singapore",
+    "latitude": 1.2803318,
+    "longitude": 103.8475438
   },
   {
     "placeId": "xhs-ff5fb130e9199c59e7152ee4",
@@ -1440,6 +1735,8 @@
     "googleRating": 4.6,
     "googleRatingCount": 467,
     "googleAddress": "72 Amoy St, Singapore 069891",
-    "googleMapsUrl": "https://www.google.com/maps/search/Nouri%20Singapore"
+    "googleMapsUrl": "https://www.google.com/maps/search/Nouri%20Singapore",
+    "latitude": 1.280279066230298,
+    "longitude": 103.8465627247002
   }
 ]
