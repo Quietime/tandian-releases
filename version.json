@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.5.3",
-  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.5.3/manmantan-INSTALL.apk",
-  "changelog": "修复距离优先排序：使用真实当前位置，移除限时项目对其他排序的干扰，并为全部餐饮地点补齐坐标。清单卡片新增距离与定位状态；路线服务可用时显示步行距离和时间，不可用时明确显示直线估算。同步带入此前尚未公开发布的玩乐地点拆分、来源闪退修复、去过自动收起、下拉筛选及远程目录更新。"
+  "versionCode": 20,
+  "versionName": "1.5.4",
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.5.4/manmantan-INSTALL.apk",
+  "changelog": "修复自动更新提示：每次冷启动都会直接获取最新版本，不再因为当天检查过更新而沿用旧缓存。包含 v1.5.3 的距离优先修复、真实定位和全量地点坐标，以及此前尚未公开发布的玩乐地点拆分、来源闪退修复、去过自动收起、下拉筛选与远程目录更新。"
 }
