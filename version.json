@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.5.4",
-  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.5.4/manmantan-INSTALL.apk",
-  "changelog": "修复自动更新提示：每次冷启动都会直接获取最新版本，不再因为当天检查过更新而沿用旧缓存。包含 v1.5.3 的距离优先修复、真实定位和全量地点坐标，以及此前尚未公开发布的玩乐地点拆分、来源闪退修复、去过自动收起、下拉筛选与远程目录更新。"
+  "versionCode": 21,
+  "versionName": "1.5.5",
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.5.5/manmantan-INSTALL.apk",
+  "changelog": "修复 Google 登录失败：登录前自动检查 Supabase 服务状态，并针对项目暂停、DNS 故障等情况显示明确提示。新增云服务健康状态和每日自动保活，降低免费项目再次暂停的概率；同时补齐 Google Routes API 权限，恢复真实路线距离与时间估算。"
 }
