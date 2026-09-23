@@ -1,0 +1,6 @@
+{
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.6.0-qa.2/manmantan-1.6.0-qa.2.apk",
+  "versionName": "1.6.0-qa.2",
+  "changelog": "修复测试版检查更新无效：测试版现在使用独立 QA 更新通道，且可在 App 内直接下载后续测试包。正式版更新通道未改动。",
+  "versionCode": 23
+}
