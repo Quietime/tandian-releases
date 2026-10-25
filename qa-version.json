@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.6.0-qa.5-free",
-  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.6.0-qa.5-free/manmantan-1.6.0-qa.5-free.apk",
-  "changelog": "免费模式：原生开放地图、离线店名搜索、人工确认导入、收藏聚合搜索及地图选点。关闭Google付费接口、Gemini和云同步；没有Google评分/照片，数据本地保存，请定期备份。QA5可覆盖旧QA与code25预览，正式版不变。"
+  "versionCode": 27,
+  "versionName": "1.6.0-qa.6-free-sync",
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.6.0-qa.6-free-sync/manmantan-1.6.0-qa.6-free-sync.apk",
+  "changelog": "免费地图保留，恢复 Google 登录及 Supabase 免费云同步。同步店铺清单、备注、位置、已探和删除状态；登录后自动启用。新增事务提交、幂等重试及冲突保护。玩乐和照片暂不同步，请保留备份。仅更新 QA，不改正式版。"
 }
