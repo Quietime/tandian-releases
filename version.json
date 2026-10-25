@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.5.5",
-  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.5.5/manmantan-INSTALL.apk",
-  "changelog": "修复 Google 登录失败：登录前自动检查 Supabase 服务状态，并针对项目暂停、DNS 故障等情况显示明确提示。新增云服务健康状态和每日自动保活，降低免费项目再次暂停的概率；同时补齐 Google Routes API 权限，恢复真实路线距离与时间估算。"
+  "versionCode": 28,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/Quietime/tandian-releases/releases/download/v1.6.0/manmantan-INSTALL.apk",
+  "changelog": "慢慢探1.6.0正式版：新版开屏、紧凑清单、原生开放地图、店名搜索与人工确认导入；恢复Google登录及店铺清单云同步。沿用原包名和签名，保留本地数据。开放目录不提供Google评分/照片；玩乐暂不同步，请保留备份。"
 }
